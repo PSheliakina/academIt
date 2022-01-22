@@ -1,6 +1,7 @@
-first row 1 from main brunch
+1 from brunch with conflicts
 second row 2
 third row 3
 forth row 4
 fifth row 5
-raw from main local brunch
+raw from brunch with conflicts from remote++
+
